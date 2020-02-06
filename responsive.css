@@ -1,0 +1,473 @@
+@media screen and (max-width: 1200px) {
+.container {
+	padding: 0 2%;
+}
+ul.event_img {
+	text-align: center;
+	width: 100%
+}
+ul.event_img li {
+	width: 187px;
+	margin-right: 8px;
+	text-align: left;
+}
+.event_1, .event_2, .event_3, .event_4, .event_5 {
+	background-size: 100%;
+	height: 225px;
+}
+.bharathon_right {
+	width: 51%;
+}
+.bharathon_right h4 {
+	font-size: 18px;
+}
+.register_review ul li.left{ margin-right:15px;}
+.nav-collapse a{ font-size:14px; padding:59px 10px;}
+}
+ @media screen and (max-width: 1024px) {
+ul.event_img li > div {
+	padding: 0 48px 0 15px
+}
+ul.event_img li {
+	margin-right: 9px;
+	width: 180px;
+}
+ul.event_img li p strong {
+	font-size: 46px;
+}
+ul.event_img li p {
+	line-height: 19px;
+}
+ul.event_img li span {
+	font-size: 25px;
+	margin-top: 15px;
+}
+.nav-collapse a {
+	font-size: 14px !important;
+	padding: 54px 10px !important;
+}
+.logo {
+	width: 190px;
+}
+.logo img {
+	width: 100%;
+}
+.header_section {
+	height: 122px;
+}
+.nav-collapse li {
+	height: 122px;
+}
+}
+ @media screen and (max-width: 991px) {
+ul.event_img li > div {
+	padding: 0 40px 0 10px;
+}
+.event_1, .event_2, .event_3, .event_4, .event_5 {
+	height: 171px;
+}
+ul.event_img li {
+	margin-right: 5px;
+	width: 140px;
+}
+ul.event_img li p strong {
+	font-size: 30px;
+}
+ul.event_img li span {
+	font-size: 20px;
+	margin-top: 10px;
+}
+ul.event_img li p {
+	font-size: 10px;
+	line-height: 14px;
+}
+.run_for_img_left {
+	text-align: center;
+	width: 100%;
+	display: inline-block
+}
+.bharathon_right {
+	width: 100%;
+	display: inline-block;
+}
+.footer {
+	padding: 40px 0;
+}
+ul.footer_link {
+	width: 100%;
+	text-align: center;
+}
+ul.footer_link li {
+	margin-bottom: 15px;
+	float: none;
+	display: inline-block;
+}
+span.copy-right {
+	width: 100%;
+	text-align: center;
+	display: inline-block;
+}
+h2 {
+	font-size: 30px;
+}
+.banner {
+	height: 350px;
+}
+.about_the_event, .race_categories, .our_brand_ambassador, .philanthropy_partner, .disclaimer {
+	padding: 30px 0;
+}
+.nav-collapse a {
+	padding: 55px 10px !important;
+	font-size: 14px !important;
+}
+ul.media_logo li {
+	padding: 5px;
+}
+ul.media_logo li .media_social {
+	height: 85px;
+}
+label, .form_section ul li select, .form_section select option, .form_section ul li textarea, .form_section ul li input[type="text"], .formInput {
+	font-size: 16px;
+}
+.contact-us ul li.form-right textarea {
+	height: 196px;
+}
+.logo {
+	width: 150px;
+}
+.header_section {
+	height: 96px;
+}
+.nav-collapse a {
+	font-size: 11px !important;
+	padding:42px 5px 39px !important;
+}
+.nav-collapse li {
+	height: 100%;
+	background-position: right center;
+}
+.form_section ul li.run-category, .form_section ul li.gender {
+	margin-top: 19px;
+}
+.register_review ul li.left{ margin-right:10px;}
+
+/* saf3+, chrome1+ */
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+.contact-us ul li.form-right textarea {
+height:193px;
+}
+.form_section ul li.run-category, .form_section ul li.gender {
+margin-top:18px;
+}
+}
+
+}
+ @media screen and (max-width: 767px) {
+ul.event_img li p strong {
+	font-size: 22px;
+}
+ul.event_img li span {
+	font-size: 17px;
+	margin-top: 11px;
+}
+ul.event_img li p {
+	font-size: 10px;
+	line-height: 11px;
+}
+ul.footer_link {
+	width: 100%;
+	text-align: center;
+}
+span.copy-right {
+	text-align: center;
+	width: 100%;
+}
+ul.event_img {
+	margin-top: 10px;
+}
+ul.event_img li {
+	width: 115px;
+}
+.event_1, .event_2, .event_3, .event_4, .event_5 {
+	height: 138px;
+}
+.nav-collapse a {
+	padding: 10px 10px !important;
+}
+.nav-collapse li {
+	height: auto !important;
+}
+.nav-collapse, .nav-collapse ul {
+	background: green;
+}
+.navigation_section {
+	top: 35px;
+}
+.form_section ul li select {
+	height: 61px;
+}
+.form_section ul li.run-category, .form_section ul li.gender {
+	margin-top: 23px;
+}
+.register_review ul li.left{ margin-right:0px;}
+.register_review ul li{ width:100%;}
+.reset_paynow a{ width:100%; padding:15px 0; text-align:center; display:inline-block;margin:0 0 10px 0}
+
+/* saf3+, chrome1+ */
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+.form_section ul li.run-category, .form_section ul li.gender {
+margin-top:22px;
+}
+}
+
+
+}
+ @media screen and (max-width: 640px) {
+.container {
+	padding: 0 5% 0 5%;
+}
+.logo {
+	width: 149px;
+}
+.logo img {
+	width: 100%;
+}
+.header_section {
+	height: 96px;
+}
+.navigation_section {
+	top: 34px;
+}
+.banner {
+	height: 250px;
+}
+.footer {
+	padding: 33px 0;
+}
+ul.media_logo li .media_social {
+	height: 70px;
+}
+ul.event_img li {
+	width: 48%;
+	margin-bottom: 3px;
+	border: 1px solid #fff;
+	height: 150px;
+}
+ul.event_img li:nth-child(2n) {
+	margin-right: 0
+}
+/*ul.event_img li p strong{font-size:18px;}
+ul.event_img li span{font-size: 16px; margin-top: 7px;}
+ul.event_img li p{font-size:10px;line-height:11px;}*/
+
+ul.footer_link li a, span.copy-right {
+	font-size: 14px;
+}
+.event_1 {
+	background: url(../img/1.jpg) no-repeat;
+}
+.event_2 {
+	background: url(../img/2.jpg) no-repeat;
+}
+.event_3 {
+	background: url(../img/3.jpg) no-repeat;
+}
+.event_4 {
+	background: url(../img/4.jpg) no-repeat;
+}
+.event_5 {
+	background: url(../img/5.jpg) no-repeat;
+}
+.event_1, .event_2, .event_3, .event_4, .event_5 {
+	height: 206px;
+	width: 100%;
+	background-position: right bottom;
+}
+ul.event_img li p {
+	width: 100%;
+	line-height: 30px;
+	font-size: 22px;
+}
+ul.event_img li p strong {
+	font-size: 40px;
+}
+ul.event_img li span {
+	font-size: 32px;
+	margin-top: 0px;
+	line-height: 1;
+}
+ul.event_img li > div {
+	padding: 0 20px;
+	text-align: center;
+	width: 100%;
+}
+.form_section ul li.right {
+	float: left;
+}
+.form_section ul li {
+	width: 100%;
+	margin-bottom:20px;
+}
+.form_section ul li.run-category, .form_section ul li.gender {
+	margin-top: 17px;
+}
+.content-box {
+	padding: 30px 0;
+}
+label, .form_section ul li input[type="text"], .formInput, .form_section ul li textarea, .form_section ul li select {
+	padding-left: 10px;
+}
+.contact-us-section {
+	padding: 30px 0;
+}
+.contact-us ul li.form-right, .contact-us ul li.form-left {
+	width: 100%;
+	margin-right: 0;
+	margin-left: 0
+}
+.contact-us ul li.form-right textarea {
+	height: 150px;
+}
+.reset_paynow input.paynow[type="submit"]{ width:100%; padding:15px 0;}
+.reset_paynow form{ width:100%;}
+
+}
+ @media screen and (max-width: 480px) {
+.banner {
+	height: 200px;
+}
+ul.event_img {
+	text-align: center;
+}
+ul.media_logo li {
+	width: 100%;
+	margin: 0 0 3% 0
+}
+ul.media_logo li .media_social {
+	height: 100px;
+}
+ul.media_logo li .media_social span img {
+	max-width: 100%;
+	width: auto;
+}
+ul.event_img li {
+	width: 100%;
+	margin-right: 0px;
+	margin-bottom: 10px;
+}
+ul.footer_link li {
+	margin-bottom: 10px;
+	padding: 0 7px;
+}
+ul.footer_link li a {
+	font-size: 10px;
+}
+span.copy-right {
+	font-size: 10px;
+	float: none;
+}
+.about_the_event p {
+	font-size: 14px;
+}
+h2, h2.white {
+	font-size: 23px;
+}
+ul.footer_link li a {
+	font-size: 10px;
+}
+.run_for_img_left img {
+	width: 100%;
+}
+.footer {
+	height: 70px;
+	padding: 7px 0;
+}
+.form_section {
+	margin-top: 0;
+}
+.form_section ul li {
+	margin-top: 15px;
+}
+.form_section ul li.run-category, .form_section ul li.gender {
+	margin-top: 0;
+}
+.form_section ul li select {
+	padding-bottom: 0;
+}
+label, .form_section ul li input[type="text"], .formInput, .form_section ul li textarea, .form_section ul li select {
+	padding-bottom: 5px;
+}
+.form_section ul li.first-name::before, .form_section ul li.last-name::before, .form_section ul li.email::before, .form_section ul li.dateofbirth::before {
+	font-size: 16px;
+}
+label, .form_section ul li select, .form_section select option, .form_section ul li textarea, .form_section ul li input[type="text"], .formInput {
+	font-size: 14px;
+}
+.ragister_banner {
+	height: 150px;
+}
+.fa-2x {
+	font-size: 20px !important;
+}
+.register_review ul{ margin:20px 0;}
+.olympics{ padding-top:30px;}
+.olympics span{ margin-bottom:20px;}
+.thank-you h3{ font-size:42px;}
+.thank-you P{ font-size:16px;	}
+}
+@media screen and (max-width: 320px) {
+.about_the_event p {
+	font-size: 14px;
+}
+h2, h2.white {
+	font-size: 20px;
+}
+.philanthropy_partner h6 {
+	font-size: 18px;
+}
+.bharathon_right p {
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+.bharathon_right h4, .bharathon_right h5 {
+	font-size: 16px;
+}
+.bharathon_right h3 {
+	font-size: 21px;
+	margin: 1px 0;
+}
+ul.achivment li a {
+	font-size: 14px;
+	line-height: 16px;
+}
+h2::before, h2.white::before {
+	background-size: 100%;
+	width: 150px;
+}
+.disclaimer p {
+	font-size: 14px;
+}
+ul.achivment li::before {
+	line-height: 18px;
+}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+.animated {
+	/*CSS transitions*/
+		
+		/*CSS transforms*/
+	-o-transform: none !important;
+	-moz-transform: none !important;
+	-ms-transform: none !important;
+	-webkit-transform: none !important;
+	transform: none !important;
+	/*CSS animations*/
+	-webkit-animation: none !important;
+	-moz-animation: none !important;
+	-o-animation: none !important;
+	-ms-animation: none !important;
+	animation: none !important;
+}
+}
